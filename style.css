@@ -1,0 +1,60 @@
+#main{
+    padding:30px;
+}
+
+#title {
+    margin: 0;
+    padding: 20px;
+    display: flex;  /*responsive text border*/
+    justify-content: center;  /*responsive text border*/
+    text-align: center;
+    border: 50px;
+
+    
+
+}
+.container {
+    margin: 0;
+    padding: 15px;
+    background-color: #040F16;  /* #F0F3F5 background color for heading "desmond Tutu"*/
+    color: white;
+
+}
+
+#img-div {
+    width: 100%;
+    height: auto;
+
+}
+@font-face {
+    src: url(Fonts/southern-jannie-font/SouthernJannie-8M89J.otf);
+    font-family: Southerni-Jannie;
+    
+
+}
+
+h1 {
+    font-family: Southerni-Jannie;
+    font-size: 27px;
+    font-weight: 300;
+    
+}
+
+p {
+    font-family:cursive;
+    font-size: 20px;
+}
+
+.gap{
+    background-color: whitesmoke;
+}
+
+ul {
+    font-size: 20px;
+    line-height: 3;
+}
+
+#tribute-link:hover {
+    background-color: #FFFFFF;
+
+}
